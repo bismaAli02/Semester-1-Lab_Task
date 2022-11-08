@@ -1,0 +1,7 @@
+Name: Umair
+Age: 20
+School: DareArqam
+Matric marks: 966
+College: Punjab
+Fsc Marks: 986
+Ecat Marks: 197
